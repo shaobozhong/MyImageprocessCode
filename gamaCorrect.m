@@ -1,3 +1,4 @@
+%This Code can used by anyone without communicate with me.And i won't resposible for any errors
 function I=gamaCorrect(I,gama)
 %I:a 2 dimenssion matrix
 %gama:is the gama
