@@ -1,0 +1,4 @@
+There are two project in this dirctory.One is C source code implemented the BitMap File Open and another is coresponding CPP project.
+The BmpUtil and the BmpUtilPalette are different in that the former have not save the Palette then used some equal method to simulate this and the latter save the Palette.
+In my opinion,the latter is better one.
+These code is writen by my senior Yanjian Liu and me.Thxs Mr liu.

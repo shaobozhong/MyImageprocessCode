@@ -1,1 +1,13 @@
 *.o
+bin/
+obj/
+*.ncb
+*.sln
+*.suo
+Debug/
+*.vcp*
+*.rar
+*cdb
+*.depend
+*.layout
+
